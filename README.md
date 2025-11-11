@@ -8,3 +8,19 @@
 
 
 
+<!-- 🎯 GitHub Stats -->
+<p align="center">
+  <a href="https://github.com/baxtiff05-cell">
+    <img src="https://github-readme-stats.vercel.app/api?username=baxtiff05-cell&show_icons=true&count_private=true&theme=radical" height="180" />
+  </a>
+</p>
+
+<!-- 💻 Top Languages + Repo Card -->
+<p align="center">
+  <a href="https://github.com/baxtiff05-cell/baxtiff05-cell">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxtiff05-cell&layout=compact&theme=radical" height="180" />
+  </a>
+  <a href="https://github.com/baxtiff05-cell/baxtiff05-cell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=baxtiff05-cell&repo=baxtiff05-cell&theme=radical" height="180" />
+  </a>
+</p>
